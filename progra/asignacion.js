@@ -1,0 +1,14 @@
+let puntos = 50;
+console.log(puntos);
+puntos = puntos + 20;
+console.log(puntos);
+puntos += 20;
+console.log(puntos);   
+puntos -= 10;
+console.log(puntos); 
+puntos *= 2;
+console.log(puntos);
+puntos /= 2;
+console.log(puntos);
+puntos %= 2;
+console.log(puntos);
