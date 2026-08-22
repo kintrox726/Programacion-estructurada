@@ -17,8 +17,7 @@ rl.question("Ingrese el nombre del producto: ", function(nombre){
 
 
             console.log(`nombre de producto:  ${nombre}  cantidad a comprar:  ${cantidad} total a pagar:  ${total}`);
-            rl.close
+            rl.close();
         })
     })
-
 });
